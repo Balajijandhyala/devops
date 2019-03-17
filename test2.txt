@@ -1,0 +1,12 @@
+ Volume in drive G is New Volume
+ Volume Serial Number is CAA7-5CC0
+
+ Directory of g:\devops\firstgitproj
+
+03/17/2019  06:43 PM    <DIR>          .
+03/17/2019  06:43 PM    <DIR>          ..
+03/17/2019  05:49 PM               398 index.html
+03/17/2019  05:46 PM                10 test1.txt
+03/17/2019  06:43 PM                 0 test2.txt
+               3 File(s)            408 bytes
+               2 Dir(s)  627,095,502,848 bytes free
